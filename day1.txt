@@ -1,0 +1,8 @@
+B23 is learning git
+
+we just made our first commit yay!!!
+
+
+
+git keeps tracks of changes between committs
+commits are made to save to the repo history
